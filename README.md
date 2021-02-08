@@ -1,5 +1,10 @@
 # Supreme(团队工作管理软件) 项目展示
 
+## 技术选型
+- C#
+- DevExpress
+- SQL Server
+
 ## 登录界面
 ![登录界面](https://github.com/Kaiwenkevinz/Supreme-demo/blob/main/img/login.PNG)
 
